@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">API_Rest_Call</string>
+    <string name="btnAtras">Atras</string>
+    <string name="marca">Marca: </string>
+    <string name="modelo">Modelo: </string>
+    <string name="modificar">Modificar</string>
+    <string name="guardar">Guardar</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="home">Inicio</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="crear">Crear</string>
 </resources>
